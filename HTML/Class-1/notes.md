@@ -31,9 +31,9 @@ This tag is used to specify the version of HTML
  <b>
   It is used to make a text bold.
  <body>
-  It is used to make a text bold.
+it is used to defines the main content of a web page displayed to users
  <br>
- It is used to make a text bold.
+ It is used to make a line break.
  <button>
   It is used to represent a clickable button.
  <div>
