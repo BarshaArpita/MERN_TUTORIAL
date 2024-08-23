@@ -1,0 +1,9 @@
+## HTML FORM -:
+An HTML Form is used to collect data through user <inputs>. 
+the form data is sent to server for further processing
+
+
+placeholder --- its besically default value
+specifies a short hint that describes the expected value of an input field 
+
+lable describe inputbox

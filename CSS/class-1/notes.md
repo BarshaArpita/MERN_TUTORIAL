@@ -30,7 +30,7 @@ html:
 
 ```
 
-3. Class Selectors:
+3. Class Selectors:  
 
 Class selectors are used to select elements based on their class attribute.
 They are denoted by a period (.) followed by the class name.

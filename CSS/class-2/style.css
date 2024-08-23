@@ -12,6 +12,7 @@
   .sub_main {
     display: flex;
     flex-wrap: wrap;
+    border: 5px solid red;
     /* flex-direction: column; */
     /* flex-direction: row; */
     /* justify-content: center; */
